@@ -5,6 +5,7 @@
     "communities": [
         {
             "accentColor": "blue",
+            "region": "Singapore",
             "image": "https://github.com/jiachenyee/swift-communities/blob/main/images/sfe.jpeg?raw=true",
             "title": "Swift for Everyone",
             "shortDescription": "A series of fortnightly free Swift workshops, for everyone. Workshops are conducted physically in Singapore and online.",
@@ -14,6 +15,7 @@
         },
         {
             "accentColor": "orange",
+            "region": "Singapore",
             "image": "https://github.com/jiachenyee/swift-communities/blob/main/images/iosdevscout.png?raw=true",
             "title": "iOS Dev Scout",
             "shortDescription": "A monthly meetup group in Singapore.",
@@ -23,6 +25,7 @@
         },
         {
             "accentColor": "orange",
+            "region": "Singapore",
             "image": "https://github.com/jiachenyee/swift-communities/blob/main/images/ssg.png?raw=true",
             "title": "Spatial Singapore",
             "shortDescription": "A monthly meetup group in Singapore for developers and designers interested in spatial computing.",
@@ -38,6 +41,7 @@
       "communities": [
           {
               "accentColor": "blue",
+              "region": "Kuala Lumpur, Malaysia",
               "image": "https://github.com/jiachenyee/swift-communities/blob/main/images/swiftlah.jpeg?raw=true",
               "title": "SwiftLah!",
               "shortDescription": "A monthly meetup group in Kuala Lumpur, Malaysia.",
@@ -53,6 +57,7 @@
       "communities": [
           {
               "accentColor": "blue",
+              "region": "Batam, Indonesia",
               "image": "https://github.com/jiachenyee/swift-communities/blob/main/images/swiftbatam.jpeg?raw=true",
               "title": "Swift Batam",
               "shortDescription": "Learn. Share. Connect. A monthly meetup group in Batam, Indonesia.",
