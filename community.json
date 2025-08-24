@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Singapore",
+    "emoji": "🇸🇬",
+    "communities": [
+        {
+            "accentColor": "blue",
+            "image": "https://github.com/jiachenyee/swift-communities/blob/main/images/sfe.jpeg?raw=true",
+            "title": "Swift for Everyone",
+            "shortDescription": "A series of fortnightly free Swift workshops, for everyone. Workshops are conducted physically in Singapore and online.",
+            "description": "Swift for Everyone by iOS Dev Scout is a community-run workshop series open to all. Whether you're a seasoned developer or just starting out, you're welcome to join us. We aim to make learning Swift accessible and enjoyable for everyone, regardless of your background or experience level.\n\nWorkshops are conducted in-person, in Singapore, and online, so you can join us from anywhere in the world.",
+            "traits": ["workshop", "students", "developers", "professionals"],
+            "url": "https://swiftin.sg/everyone"
+        },
+        {
+            "accentColor": "orange",
+            "image": "https://github.com/jiachenyee/swift-communities/blob/main/images/iosdevscout.png?raw=true",
+            "title": "iOS Dev Scout",
+            "shortDescription": "A monthly meetup group in Singapore.",
+            "description": "A monthly meetup for Swift developers to meet and share ideas.",
+            "traits": ["meetup", "developers", "professionals"],
+            "url": "http://meetup.com/iosdevscout/"
+        },
+        {
+            "accentColor": "orange",
+            "image": "https://github.com/jiachenyee/swift-communities/blob/main/images/ssg.png?raw=true",
+            "title": "Spatial Singapore",
+            "shortDescription": "A monthly meetup group in Singapore for developers and designers interested in spatial computing.",
+            "description": "A community for developers and designers interested in spatial computing.",
+            "traits": ["meetup", "developers", "professionals", "students"],
+            "url": "http://lu.ma/ssg"
+        }
+    ]
+  },
+  {
+      "name": "Malaysia",
+      "emoji": "🇲🇾",
+      "communities": [
+          {
+              "accentColor": "blue",
+              "image": "https://github.com/jiachenyee/swift-communities/blob/main/images/swiftlah.jpeg?raw=true",
+              "title": "SwiftLah!",
+              "shortDescription": "A monthly meetup group in Kuala Lumpur, Malaysia.",
+              "description": "The go to community for every Malaysian Swift & iOS enthusiast. All backgrounds welcome — bring your laptop, questions and let’s build a world-class apps together. Jom!",
+              "traits": ["meetup", "developers", "professionals", "students"],
+              "url": "https://www.meetup.com/malaysia-swiftlah/"
+          }
+      ]
+  },
+  {
+      "name": "Indonesia",
+      "emoji": "🇮🇩",
+      "communities": [
+          {
+              "accentColor": "blue",
+              "image": "https://github.com/jiachenyee/swift-communities/blob/main/images/swiftbatam.jpeg?raw=true",
+              "title": "Swift Batam",
+              "shortDescription": "Learn. Share. Connect. A monthly meetup group in Batam, Indonesia.",
+              "description": "A community that helps people learn to code and design apps using Apple's Swift programming language.",
+              "traits": ["meetup", "developers", "professionals", "students"],
+              "url": "https://linktr.ee/swiftbatam"
+          }
+      ]
+  },
+]
